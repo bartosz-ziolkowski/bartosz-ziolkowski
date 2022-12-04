@@ -23,12 +23,12 @@
 </div>
   
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+TO-DO
+- :telescope: TO-DO
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: TO-DO
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, TO-DO
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziolkowskibartosz/) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ziolkowski.b4rtosz@gmail.com) 
 <hr />
