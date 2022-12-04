@@ -30,9 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bartosz-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) <a href="https://www.facebook.com/barteqqqq/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a> 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Bartosz-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](your-linkedin-url) 
 <hr />
 
 ### :hammer_and_wrench: Languages and Tools :
