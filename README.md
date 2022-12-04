@@ -19,7 +19,7 @@
 </div>
 <div align="center">
   <img src="https://media-exp1.licdn.com/dms/image/D4D16AQFrWLyhmkG_ig/profile-displaybackgroundimage-shrink_350_1400/0/1666604865341?e=1675900800&v=beta&t=dbhRcanCwePYYe-zpo8x13jPxP4vDduuD9AIY3pGk9k" width="900">
-* * *
+<hr />
 </div>
 
 
