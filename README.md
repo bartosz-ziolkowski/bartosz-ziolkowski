@@ -26,7 +26,7 @@
 I am (as of February 2023) an MSc student in Computer Science and Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at DTU in Denmark.
 - :telescope: I am looking for a job as a Front-end Developer or Full-stack Developer
 
-- :seedling: TO-DO
+- :seedling: As a kind of freshman in IT, I really enjoy learning about new technologies.
 
 - :zap: In my free time, I like to travel and cook.
 
