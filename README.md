@@ -23,8 +23,8 @@
 </div>
   
 ### :man_technologist: About Me :
-TO-DO
-- :telescope: TO-DO
+I am (as of February 2023) an MSc student in Computer Science and Engineering at DTU in Denmark.
+- :telescope: I am looking for a job as a Front-end Developer or Full-stack Developer
 
 - :seedling: TO-DO
 
