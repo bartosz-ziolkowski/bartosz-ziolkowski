@@ -23,12 +23,12 @@
 </div>
   
 ### :man_technologist: About Me :
-I am (as of February 2023) an MSc student in Computer Science and Engineering at DTU in Denmark.
+I am (as of February 2023) an MSc student in Computer Science and Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at DTU in Denmark.
 - :telescope: I am looking for a job as a Front-end Developer or Full-stack Developer
 
 - :seedling: TO-DO
 
-- :zap: In my free time, TO-DO
+- :zap: In my free time, I like to travel and cook.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziolkowskibartosz/) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ziolkowski.b4rtosz@gmail.com) 
 <hr />
