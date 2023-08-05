@@ -1,63 +1,64 @@
+# Hi, Bartosz Ziolkowski here 👋
+
 <div id="header" align="center">
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="200"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ziolkowskibartosz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/ziolkowski_bartek/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/barteqqqq/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+    <a href="https://www.linkedin.com/in/bart-ziolkowski">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:bart_ziolkowski@icloud.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    </a>
+    <a href="https://www.instagram.com/bart_ziolkowski/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://www.facebook.com/barteqqqq/">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=ziolkowski-bartosz&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  :poland: :denmark:
 </div>
-<div align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/D4D16AQFrWLyhmkG_ig/profile-displaybackgroundimage-shrink_350_1400/0/1666604865341?e=1675900800&v=beta&t=dbhRcanCwePYYe-zpo8x13jPxP4vDduuD9AIY3pGk9k" width="900">
-<hr />
-</div>
-  
-### :man_technologist: About Me :
-I am (as of February 2023) an MSc student in Computer Science and Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at DTU in Denmark.
-- :telescope: I am looking for a job as a Front-end Developer or Full-stack Developer
 
-- :seedling: As a kind of freshman in IT, I really enjoy learning about new technologies.
+## :man_technologist:  About Me :
 
-- :zap: In my free time, I like to travel and cook.
+- :scientist:  From January 31, 2023, to January 31, 2025, I am pursuing my MSc in Computer Science and Engineering at the Technical University of Denmark.
+- :telescope:  I am actively seeking a position as a Web Developer. In my spare time, I enjoy working on personal side projects, which you can check out on my GitHub profile :)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ziolkowskibartosz/) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ziolkowski.b4rtosz@gmail.com) 
-<hr />
+## :wrench: Technologies:
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="ASP.NET MVC" alt="ASP.NET MVC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp;
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL"  alt="MSSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+[![React](https://img.shields.io/badge/-React-0abde3?style=flat-square&logo=react&logoColor=white)]()
+[![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)]()
+[![JavaScipt](	https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)]()
+[![TypeScipt](https://img.shields.io/badge/-TypeScript-1572B6?style=flat-square&logo=typescript&logoColor=white)]()
+
+[![NodeJS](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node.js&logoColor=white)]()
+[![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)]()
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]()
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)]()
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)]()
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-yellow.svg)]()
+
+[![React-Query](https://img.shields.io/badge/-React%20Query-ff9f43?style=flat-square&logo=reactquery&logoColor=white)]()
+[![React-Hook-Form](https://img.shields.io/badge/-React%20Hook%20Form-05c46b?style=flat-square&logo=react&logoColor=white)]()
+[![Formik](https://img.shields.io/badge/-Formik-3c40c6?style=flat-square&logo=react&logoColor=white)]()
+
+[![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=Sass)]()
+[![Styled Components](https://img.shields.io/badge/-StyledComponents-orange?style=flat-square&logo=Styled-Components&logoColor=white)]()
+[![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-FD7272?style=flat-square&logo=Tailwind-CSS&logoColor=white)]()
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)]()
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)]()
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)]()
+
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)]()
+
+## :arrow_down: Check out my pinned projects:
