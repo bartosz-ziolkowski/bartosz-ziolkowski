@@ -15,8 +15,10 @@
     <a href="https://www.facebook.com/barteqqqq/" target=”_blank”>
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
+    <h2>
+      :poland: :denmark:
+    </h2>
   </div>
-  :poland: :denmark:
 </div>
 
 ## :man_technologist:  About Me :
