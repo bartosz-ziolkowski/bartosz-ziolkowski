@@ -1,4 +1,4 @@
-# Hi, Bartosz Ziolkowski here 👋
+# Hi, you can call me Bart 👋
 
 <div id="header" align="center">
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="200"/>
