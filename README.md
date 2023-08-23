@@ -12,7 +12,7 @@
     <a href="https://www.instagram.com/bart_ziolkowski/" target=”_blank”>
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://www.facebook.com/barteqqqq/" target=”_blank”>
+    <a href="https://www.facebook.com/ziolkowskibart" target=”_blank”>
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
