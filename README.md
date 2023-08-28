@@ -22,7 +22,7 @@
 ## :man_technologist:  About Me :
 
 - :scientist:  From January 31, 2023, to January 31, 2025, I am pursuing my MSc in Computer Science and Engineering at the Technical University of Denmark.
-- :telescope:  I am actively seeking a position as a Web Developer. In my spare time, I enjoy working on personal side projects, which you can check out on my GitHub profile :)
+- :telescope:  In my spare time, I enjoy working on personal side projects, which you can check out on my GitHub profile :)
 
 ## :wrench: Technologies:
 
