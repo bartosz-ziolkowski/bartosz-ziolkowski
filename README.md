@@ -26,6 +26,12 @@
 
 ## :wrench: Technologies:
 
+[![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)]()
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)]()
+[![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white)]()
+[![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)]()
+
+
 [![React](https://img.shields.io/badge/-React-0abde3?style=flat-square&logo=react&logoColor=white)]()
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)]()
 [![JavaScipt](	https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)]()
@@ -62,5 +68,6 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=sql&logoColor=white)]()
 
 ## :arrow_down: Check out my pinned projects:
