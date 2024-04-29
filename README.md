@@ -46,7 +46,7 @@
 
 [![NodeJS](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node.js&logoColor=white)]()
 [![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
+[![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)]()
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 <!---
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)]()
@@ -64,6 +64,7 @@
 [![Sass](https://img.shields.io/badge/-Sass-pink?style=flat-square&logo=Sass)]()
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-FD7272?style=flat-square&logo=Tailwind-CSS&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)]()
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]()
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)]()
