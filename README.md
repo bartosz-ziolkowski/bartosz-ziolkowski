@@ -36,7 +36,7 @@
 [![React](https://img.shields.io/badge/-React-0abde3?style=flat-square&logo=react&logoColor=white)]()
 [![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=Next.js)]()
 [![TypeScipt](https://img.shields.io/badge/-TypeScript-1572B6?style=flat-square&logo=typescript&logoColor=white)]()
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)]()
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 <!---
 [![JavaScipt](	https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)]()
 -->
@@ -45,7 +45,7 @@
 -->
 
 [![NodeJS](https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=node.js&logoColor=white)]()
-[![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square)]()
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)]()
 [![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux&logoColor=pink)]()
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 <!---
