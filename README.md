@@ -1,18 +1,18 @@
-# Hi, you can call me Bart 👋
+# Hi, welcome to my profile! 👋
 
 <div id="header" align="center">
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/bart-ziolkowski" target=”_blank”>
+    <a href="https://www.linkedin.com/in/bartoszxziolkowski/" target=”_blank”>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:bart_ziolkowski@icloud.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
     </a>
-    <a href="https://www.instagram.com/bart_ziolkowski/" target=”_blank”>
+    <a href="https://www.instagram.com/bartoszxziolkowski/" target=”_blank”>
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://www.facebook.com/ziolkowskibart" target=”_blank”>
+    <a href="https://www.facebook.com/bartoszxziolkowski/" target=”_blank”>
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
@@ -21,7 +21,6 @@
 
 ## :man_technologist:  About Me :
 
-- :scientist:  From January 31, 2023, to January 31, 2025, I am pursuing my MSc in Computer Science and Engineering at the Technical University of Denmark.
 - :telescope:  In my spare time, I enjoy working on personal side projects, which you can check out on my GitHub profile :)
 
 ## :wrench: Technologies:
