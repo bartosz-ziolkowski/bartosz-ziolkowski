@@ -80,4 +80,8 @@
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)]()
 -->
 
+
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartosz-ziolkowski&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+
+ 
 ## :arrow_down: Check out my pinned projects:
