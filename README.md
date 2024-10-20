@@ -3,16 +3,16 @@
 <div id="header" align="center">
   <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/bartoszxziolkowski/" target=”_blank”>
+    <a href="https://www.linkedin.com/in/bartosz--ziolkowski/" rel="noopener noreferrer" target=”_blank”>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:bartosz@remaster.studio">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
     </a>
-    <a href="https://www.instagram.com/bartoszxziolkowski/" target=”_blank”>
+    <a href="https://www.instagram.com/bartoszxziolkowski/" target=”_blank” rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://www.facebook.com/bartoszxziolkowski/" target=”_blank”>
+    <a href="https://www.facebook.com/bartoszxziolkowski/" target=”_blank” rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
   </div>
