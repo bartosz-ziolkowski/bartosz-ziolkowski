@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/bartosz--ziolkowski/" rel="noopener noreferrer" target=”_blank”>
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:bartosz@remaster.studio">
+    <a href="mailto:bartoszxziolkowski@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
     </a>
     <a href="https://www.instagram.com/bartoszxziolkowski/" target=”_blank” rel="noopener noreferrer">
